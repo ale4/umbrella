@@ -1,1 +1,5 @@
 
+title: My Site
+description: A Jekyll site on GitHub Pages
+theme: minima   # or any supported theme
+
