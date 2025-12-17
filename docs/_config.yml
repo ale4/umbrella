@@ -1,7 +1,8 @@
 
-title: My Site
-description: A Jekyll site on GitHub Pages
-theme: Creative Theme
-remote_theme: creative-theme-jekyll
-plugins:  - jekyll-remote-theme
-
+t
+title: My Creative Site
+description: A Jekyll site using Creative Theme
+remote_theme: StartBootstrap/startbootstrap-creative-jekyll
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
