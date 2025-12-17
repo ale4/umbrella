@@ -19,8 +19,9 @@ plugins:
 - jekyll-relative-links
 
 # (Optional) URL settings – set these after your site is published
-url: "https://ale4.github.io"
-baseurl: "/umbrella"
+domain: ale4.github.io
+url: https://ale4.github.io
+baseurl: /umbrella/
 
 # (Optional) Exclude files from the site build
 exclude:
