@@ -1,7 +1,21 @@
 
-title: MySite
-description: A Jekyll site using Creative Theme
-remote_theme: StartBootstrap/startbootstrap-creative-jekyll
+title: "MySite"
+description: "A Jekyll site using Creative Theme"
+remote_theme: "StartBootstrap/startbootstrap-creative-jekyll"
+
+# Plugins used by the site (GitHub Pages-compatible)
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-sitemap
+
+# (Optional) URL settings – set these after your site is published
+url: "https://ale4.github.io"
+baseurl: "/umbrella"
+
+# (Optional) Exclude files from the site build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+ 
