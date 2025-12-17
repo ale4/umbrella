@@ -1,6 +1,5 @@
 
-t
-title: My Creative Site
+title: MySite
 description: A Jekyll site using Creative Theme
 remote_theme: StartBootstrap/startbootstrap-creative-jekyll
 plugins:
