@@ -1,7 +1,7 @@
 
 title: "MySite"
 description: "A Jekyll site using Creative Theme"
-remote_theme: "StartBootstrap/startbootstrap-creative-jekyll"
+remote_theme: benbalter/retlab
 
 # Plugins used by the site (GitHub Pages-compatible)
 plugins:
