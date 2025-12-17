@@ -1,7 +1,7 @@
 
 title: "MySite"
 description: "A Jekyll site using Creative Theme"
-remote_theme: benbalter/retlab
+remote_theme:  "volny/creative-theme-jekyll"
 
 # Plugins used by the site (GitHub Pages-compatible)
 plugins:
