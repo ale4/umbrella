@@ -1,13 +1,13 @@
 
+
 source "https://rubygems.org"
 
-# Use the same environment as GitHub Pages
+# Use the GitHub Pages gem set (pins Jekyll/plugins to compatible versions)
 gem "github-pages", group: :jekyll_plugins
 
-# Optional: If you use remote themes
+# Required when using `remote_theme` in _config.yml
 gem "jekyll-remote-theme"
 
-# Optional: Add other plugins if needed
-# gem "jekyll-seo-tag"
-#
-
+# Optional extras (safe for GitHub Pages)
+gem "jekyll-seo-tag"
+gem "jekyll-sitemap"
